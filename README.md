@@ -1,8 +1,6 @@
 Privacy Policy
 
-Drift company
-
-Privacy Policy
+@Drift company
 
 # Data
 The following Privacy Policy applies to a games of Nft Puzzle.
