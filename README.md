@@ -7,7 +7,8 @@ Privacy Policy
 # Data
 The following Privacy Policy applies to a games of Nft Puzzle.
 
-#Local file storage all the datas such as your level are stored locally in your phone 
+# Local storage
+Local file storage all the datas such as your level are stored locally in your phone 
 
 <!-- We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
 We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from social network services like Facebook.
