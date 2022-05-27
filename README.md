@@ -22,3 +22,4 @@ Our privacy policy may change from time to time. When we do, we will revise the 
 If you have any questions or concerns about our privacy policies, please contact us:
 - Email: jidamvap@gmail.com
 - Address: Ilala , Dar es salaam
+- May 2022
