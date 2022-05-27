@@ -1,6 +1,6 @@
 Privacy Policy
 
-PUZZLE GAME APPLICAIONS AND GAMES COMPANY LIMITED
+Drift company
 
 Privacy Policy
 
