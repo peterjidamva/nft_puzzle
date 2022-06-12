@@ -5,10 +5,7 @@ Privacy Policy
 # Data
 The following Privacy Policy applies to a games of Nft Puzzle.
 
-<!-- 
-# Local storage
-Local file storage all the datas such as your level are stored locally in your phone 
- -->
+
  
 # Ad Tracking
 Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. Click to see company privacy policies and opt-out choices:
