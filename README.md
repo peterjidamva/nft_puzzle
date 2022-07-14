@@ -5,7 +5,6 @@ Privacy Policy
 # Data
 The following Privacy Policy applies to a games of Nft Puzzle.
 
-
  
 # Ad Tracking
 Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. Click to see company privacy policies and opt-out choices:
@@ -21,4 +20,4 @@ Our privacy policy may change from time to time. When we do, we will revise the 
 If you have any questions or concerns about our privacy policies, please contact us:
 - Email: jidamvap@gmail.com
 - Address: Ilala , Dar es salaam
-- May 2022
+- JULY 2022
